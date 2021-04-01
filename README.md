@@ -1,4 +1,5 @@
 # ibloom
+iOS app that recognises flower uses Apple's CoreML Technology
 
 Please import the following .mlmodel file after downloading the project before compiling...
 
